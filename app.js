@@ -5,3 +5,13 @@ function criacartoa(categoria,perguntas,resposta){
     cartao.classname='cartao'
 
 }
+'cartao.innerHTML'=
+<div class="cartoa_conteudo">
+<h3>${categoria}</h3>
+<div class="cartao_conteudo_resposta">
+ </p>${pergunta}</P>
+ </div>
+ </div>class="cartao_conteudo_resposta">
+ </p>${resposta}</p>
+ </div>
+ </div>
