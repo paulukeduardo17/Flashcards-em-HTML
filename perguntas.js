@@ -10,4 +10,12 @@ criacartao(
 )
 criacartao(
 ' programacao',
+o que e uma funcao?
+'uma funcao e um bloco de codigo que executa alguma terefa
+ )
+ criacartao(
+    'lingua inglesa',
+    'como se diz ingles?',
+    'oi em ingles e hi(rai)'
+ )
 
